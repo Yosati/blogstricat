@@ -1,3 +1,6 @@
-# Welcome to my blog
+# Bine vam gasit la noul meu blog de pe google
+# test 1
 
-I'm glad you are here. I plan to talk about ...
+Pe acest blog vom scrie despre chestii foarte interesante
+
+Asa ca stati cu ochii pe site
